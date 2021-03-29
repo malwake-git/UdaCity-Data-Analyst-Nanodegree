@@ -1,0 +1,51 @@
+Pt #,Gender,MHX,Age ,MRN,Resident ,orthodontic problem,DHC ,AC need 
+1,M,Not Relevant,10,2225230,tamathor,"deepbite, openbite on the lateral, crowding , crossbite in #22",3,6
+2,F,Not Relevant,13,2034777,tamathor,"displacement , rotation, crowding, carious molars ",2,4
+3,M,Diabetes,50,437754,tamathor,"openbite(anterior and L lateral),class III, displacement ",4,7
+4,F,Not Relevant,18,498115,tamathor,"crowding, reverse overjet,openbite , left inlateral cross-bite",4,8
+5,M,Not Relevant,8,462544,tamathor,"bilateral crossbite, minor rotation of teeth, openbite<2",3,5
+6,M,CLP only,13,2082885,tamathor,cleft lip and palte ,5,10
+7,M,Not Relevant,13,2086589,Nora,"crossbite, displacement, crowding",4,8
+8,M,controlled asthma,31,2519468,Nora,"left unilateral cross-bite, medline shifting missing molars (46,26)",4,4
+9,M,Not Relevant,13,769129,Nora,"increase overjet, displacement of teeth , (Class II div I)",4,7
+10,F,"SLE/dermatomyositis/scleroderma, non-specific interstitial pneumonitis, hypothyriodism,fibromyalgia",29,2563295,Nora,"tooth #14 in crossbite, minor rotation, missing tooth #36, increase overbite",2,4
+11,M,Not Relevant,15,677068,Nora,"class II  dev 1, openbite of 4 mm, ",4,5
+12,M,Not Relevant,18,484774,Nora,"R unilateral open bite of 2 mm, cross-bite of tooth #13, midline shift, diastema ",3,5
+13,M,myopia ?,17,547774,Saud,"ectopic eruption of canines, displacement of laterals and caninces, crossbite and deepbite on the upper central ",4,8
+14,F,tenia capitis,12,2101979,Saud,"anterior 4 mm diastema, crossbite of #55. classII molar relation, medline shift",3,4
+15,F,Not Relevant,22,2633936,Saud,"impacted canine #23, class II molar relationhip, deep bite on the anterior with shift of the medline",4,6
+16,F,Not Relevant,15,669099,Saud,"bilateral crossbite, impacted or missing lateral #12, medline shift , rotation of the lower premolar",4,6
+17,M,Not Relevant,39,2040407,Saud,"missing tooth #46,17,37, flared lower and upper anterior, crossbite in the left side, edge to edge bite, openbite of 1 mm anterior ",3,4
+18,F,Not Relevant,7,2396365,Saud,"anterior crossbite,class III molar relation, crossbite, in tooth #26",3,4
+19,F,Not Relevant,24,314758,ghada,cleft lip and palte ,5,10
+20,F,Not Relevant,29,2294705,ghada,"missing tooth #12, class II div1, increase overjet of 3-4 mm ",3,4
+21,F,ulceratice colitis,16,579998,ghada,"class II  dev 1, increased overjet of 4 mm  ",3,4
+22,M,Not Relevant,35,2055512,ghada,"class II dev 2, displacement of upper L premolars, crowding in the lower anterior, deep bite (trauma to the soft tissue)",4,6
+23,M,Not Relevant,19,446213,ghada,"sever displacement of the upper anterior (cross bite of the laterals, and edge to edge on the anterior centrals)",4,8
+24,F,Not Relevant,16,627744,ghada,"impacted #13, sever displacement of multiple teeth #33,24,25 , xissor cross bite on 24,25, cross bite of 15,13, increase overjet of 3 mm , palatal trauma from deepbite.",5,9
+25,F,Not Relevant,12,2120108,amani,"crowding, openbite of 2 mm on the right side, rotation of the canine, trauma to the soft tissue from deep bite",4,8
+26,M,Not Relevant,27,2584276,amani,"displacement of upper and lower teeth >2 mm, class II L molar relationship, deep and V palate, crowding all over",4,8
+27,F,Not Relevant,16,598581,amani,"sever displacement of the upper anterior teeth, ectopic eruption of tooth #23, edge to edge , crowding on the lower, openbite of 2 mm anteriorly",3,6
+28,M,Not Relevant,15,649178,amani,"anterior open bite of 3 mm and overjet of 4-5 mm, sever displacement of teeth crossbite of #16",4,8
+29,F,distal motor neuropathy,25,2511748,amani,"minor spacing between the upper anterior,  minor rotation of tooth #13",1,2
+30,F,Not Relevant,17,545423,amani,"sever displacement of the upper anterior more than 4, impacted canine #23, ectopic eruption of tooth #13, cross-bite of #22",4,8
+31,M,Not Relevant,23,567492,amani,"medline shift,unilateral cross-bite of R side (later- molar)",4,6
+32,F,Not Relevant,17,540703,amani,"unilateral cross-bite on the R side , rotation of the upper caninces , shifting in the medline",4,6
+33,F,Not Relevant,17,546017,mashari,"sever displacement of all of the anterior segment, sever crowding of the lower, increase overjet of 5-6 mm ",4,7
+34,M,Not Relevant,23,335181,mashari,very minor displacement of upper central ,1,1
+35,M,Not Relevant,15,680787,mashari,"sever displacement of the anterior region, increased overjet > 5 mm ",4,8
+36,M,Not Relevant,16,569137,mashari,"sever upper and lower anterior crowding, opn-bite of 3-4 mm ",4,6
+37,F,asthma ,14,2137789,mashari,"flared upper anterior teeth and impacted upper canines, spacing in the upper anterior, medline shift ",4,5
+38,M,CLP only,17,2283519,mashari,"cleft lip and palte, sever displacement of the anterior teeth ",5,10
+39,F,steoprosis,24,325458,ghaida,"U shaped palate , sever crowding, displacement of tooth #42,43, impacted or missing or extracted #46,4725,27, medline shift, open bite",3,7
+40,M,Not Relevant,12,2116903,ghaida,"class II dev 1, increase overjet>7 mm, displacement of teeth ",5,9
+41,M,Not Relevant,23,512573,ghaida,"reverse overjet, clas III relationship, openbite anterior and lateral only one tooth contact, rotation of teeth, crowding",5,9
+42,M,CLP only,12,2412697,ghaida,"cleft lip and palate pt, sever displacement",5,10
+43,F,Not Relevant,18,2358978,ghaida,"edge to edge bite, cross-bite on upper right premolars, rotation of lower teeth ",3,6
+44,F,pulmonary embolism ,35,595982,ghaida,"missing molar tooth #36,46 , overjet of 4 mm, minor displacement of teeth",2,3
+45,F,Not Relevant,26,252514,hala,"openbite all over, one tooth contact on both molars, spacing ",3,4
+46,M,Not Relevant,12,2095161,hala,"anterior openbite, spacing in the anterior region, class I",4,5
+47,M,Not Relevant,18,484882,hala,"sever crowding in the upper and lower anterior segment, ectopic eruption of tooth #13, anterior openbite <2 mm, medline shift",3,6
+48,F,Not Relevant,12,2096766,hala,"crowding in the anterior segment, displacement of teeth, v shaped palate increase overjet of 6-7 mm, deep bite with trauma to the palate ",4,7
+49,F,atopic dermatitis ? ,15,654399,hala,"sever crowding in the upper and lower anterior segment, displacement of teeth, medline shift, ectopic eruption of the #33",4,8
+50,F,Not Relevant,12,2099582,hala,"increase overjet, deep bite with trauma to the palate, missing lower 2nd premolars, ectopic eruption of the upper canines",4,7
